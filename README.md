@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayanabha</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align="right" alt="coding" width="400" sre="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan-2&label=Profile%20views&color=0e75b6&style=flat" alt="ayan-2" /> </p>
 
 - 👯 I’m looking to collaborate on **my Instagram page**
